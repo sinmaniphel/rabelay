@@ -1,0 +1,13 @@
+Ok, more of a whishlist for starters
+
+Rabelay would be 
+* Open : this is a sandbox game in the first stages
+* Tiled maze
+* You have to dig !
+* Dig what ? (pre-established rooms ? Trees ? Caves ?)
+
+When a tile is "digged", it has a given effect on several other tiles.
+For example
+
+if a B is created as a neighbour of A then...
+==> Rule engine !
